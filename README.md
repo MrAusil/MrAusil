@@ -1,26 +1,23 @@
-💫 Hi 👋, I'm Arpit Upadhyay
+# Hi, I'm Arpit Upadhyay
 
-Full Stack Developer || AI Enthusiast || India
+Full-Stack Developer | AI Engineer in Progress | Open-Source Contributor 
 
-Email Me 👉 ✉️ ausil059@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Computer Science Engineering student focused on building scalable applications, AI-powered solutions, and real-world products.
 
-🔭 I’m currently working on: Working on my own SaaS product as a self-made developer
+- **Currently Building:** SaaS products, full-stack applications, and AI and Cybersecurity Tools.
+- **Currently Learning:** Java, Data Structures & Algorithms, and AI Engineering.
+- **Experience:**
+  - SIH 2025 — College Finalist
+  - SIH 2026 — College Finalist
+  - Top 5 Performer — Hacksagon 2026, IIIT Gwalior
+  - Top 20 — NexHack 2.0, IITM Janakpuri
+- **Tech Stack:** React, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL, Python, Docker, Redis.
+- **Interests:** AI, open source, cybersecurity, and entrepreneurship.
+- **Collaboration:** Open to impactful full-stack and AI projects.
 
-🌱 I’m currently learning: Java for Data Structures & Algorithms (DSA)
+**Contact:** [ausil059@gmail.com](mailto:ausil059@gmail.com)
 
-👯 I’m looking to collaborate on: Full Stack and Ai projects
-
-🤔 I’m looking for help with: Seeking a passionate Java enthusiast to help me learn and grow more in Java.
-
-💬 Ask me about: Collaboration, Tech support
-
-📫 How to reach me: ausil059@gmail.com
-
-😄 Pronouns: Arpit
-
-⚡ Fun fact: I Build Tech and Tech Builds Me
-
-
+*I build tech, and tech builds me.*
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ausil059) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arpit_upadhyay_77?igsh=MXNsN2h0cGtkbnNidg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arpit-upadhayay-281407381) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ausil156336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ausil059@gmail.com) 
 
